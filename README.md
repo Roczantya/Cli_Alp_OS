@@ -1,5 +1,5 @@
 # Fany's CLI
-Fany's CLI adalah alat Command Line Interface (CLI) khusus yang dibuat dengan Python. Alat ini menyediakan berbagai fungsi untuk manajemen file dan direktori, navigasi sistem, serta utilitas tambahan. Alat ini dirancang untuk menyederhanakan tugas-tugas umum dan mencakup perintah standar serta perintah tambahan untuk operasi lanjutan.
+Fany's CLI adalah alat **Command Line Interface (CLI)** khusus yang dibuat dengan Python. Alat ini menyediakan berbagai fungsi untuk manajemen file dan direktori, navigasi sistem, serta utilitas tambahan. Alat ini dirancang untuk menyederhanakan tugas-tugas umum dan mencakup perintah standar serta perintah tambahan untuk operasi lanjutan.
 
 ## Fitur
 #### Perintah Standar
